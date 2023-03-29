@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @NguyenHoangAn0511
 - 👀 I’m interested in Machine Learning, Deep Learning and Data
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 NguyenHoangAn0511/NguyenHoangAn0511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
